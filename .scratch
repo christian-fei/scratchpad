@@ -17,4 +17,30 @@ Agile principle: "Our highest priority is to satisfy the customer through early 
 delivery of valuable software."
 
 ## How does agile planning work?
+A project plan is a list of high-level features the customer wants, prioritized by them, estimated
+by the team.
+The team commits to make some subset of features during the iteration, giving them responsibility
+on the delivery. Although plans can change: scope, budget and priorities changes reflect on the
+features and adaptive planning comes in.
+
+## Done means done
+Let's say you were hired to rake and clean the yard from the leaves. If you presented your employer
+a plan of how you're going to do it, elegant design and instruments to rake the garden etc. you
+wouldn't get a dollar for the work done. What counts is that the leaves are raked, and sitting
+at the side of the house.
+
+Delivering a feature in agile means producing shippable code at every iteration. Features/code that
+has been thought about (analysis), tested, designed and ultimately coded and exchanged feedback 
+with the customer and users.
+
+Agile principle: "Working software is the primary measure of progress/success"
+
+## Three Simple Truths
+
+1) It is impossible to gather all the requirements at the beginning of a project
+2) Whatever requirements you do gather are guaranteed to change
+3) There will always be more to do than time and money will allow
+
+
+a
 
