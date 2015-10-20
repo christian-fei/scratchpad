@@ -60,4 +60,13 @@ requires some variations of previos experiences.
 
 # Chapter 2
 # Meet your agile team
+## How are agile projects different?
+In an agile development team, roles are quite blurry, everyone can contribute to the project 
+to get to the goal of the iteration. People normally still stick to the things they are good
+at, but the possibility that everyone can contribute is a great productivity and commitment boost.
+
+In an agile team analysis, coding, design and testing are continuous activities - they never end.
+That said, development teams need to be assisted by business people to get continuous feedback
+about the work that is being done. Quality is a team responsability, there is no separate QA department.
+
 
