@@ -1,0 +1,20 @@
+# agile samurai
+## agile in a nutshell
+"Deliver somethign working, and of value every week". What does it take to do so?
+Start looking at the software delivery from the customer`s point of view and you`ll
+realize that working software released every week is fare more valuable (and important)
+than documentation, plans and reports!
+
+Documentation and plans are important, but only to enable working software, which is far
+more important. Continuous testing, making sure the codebase is in the most optimal state,
+this to avoid big-bang integrations, testing and surprises..
+
+Also getting feedback is at the heart of agile software development. Without the feedback
+from the customer, you`re driving on the highway through the fog without any light or
+reference point, and you might get into a serious accident.
+
+Agile principle: "Our highest priority is to satisfy the customer through early and continous 
+delivery of valuable software."
+
+## How does agile planning work?
+

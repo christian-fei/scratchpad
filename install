@@ -1,0 +1,8 @@
+#!/bin/bash
+
+HOME=$(cd && pwd)
+PWD=$(pwd)
+
+rm $HOME/.scratch
+
+ln -s $PWD/.scratch $HOME/.scratch
